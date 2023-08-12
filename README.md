@@ -1,6 +1,10 @@
 # Customer Complaint Dashboard
+<b>video demonstration</b><br>
+![video](/Screenshots/demonstration.gif)
+<br>
 
-
+<b>screenshot</b><br>
+<img src="/Screenshots/Screenshot.png" alt="Image Description" width="600" height="400">
 
 ## Introduction
 
